@@ -6,6 +6,10 @@ section{
     background-color: rgb(192, 90, 90);
     padding-top: 70px;
     padding-bottom: 70px;
-    display: flex;
-    justify-content: center;
+    display: flex; /*torna a seção flexivel deixando um do lado do outro*/
+    justify-content: center; 
+}
+
+div{
+    margin-right: 70px;
 }
