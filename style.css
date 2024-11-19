@@ -6,9 +6,11 @@ body{
 
 header{
     font-size: 30px;
-    
 }
 
+.cabeçalho{
+    height: auto;
+}
 
 .chamada{
     background-color: rgb(22, 22, 22);
@@ -22,13 +24,14 @@ header{
     margin-right: 5%;
     font-size: 200%;
 }
-
+img {
+    height: 200px;
+}
 
 .categoria-videos{
     display:flex;
     gap: 10px;
     font-size: 50px;
-    image-resolution: 200px;
 }
 
 .categoria{
