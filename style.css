@@ -9,7 +9,9 @@ header{
     
 }
 
-
+img {
+    height: 50px;
+}
 
 .chamada{
     background-color: rgb(22, 22, 22);
