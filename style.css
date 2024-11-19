@@ -9,9 +9,6 @@ header{
     
 }
 
-img {
-    height: 50px;
-}
 
 .chamada{
     background-color: rgb(22, 22, 22);
@@ -31,6 +28,7 @@ img {
     display:flex;
     gap: 10px;
     font-size: 50px;
+    image-resolution: 200px;
 }
 
 .categoria{
