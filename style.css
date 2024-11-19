@@ -10,7 +10,7 @@ body{
     justify-content: center; 
 }
 
-.texto{
+.chamada-texto{
     margin-right: 5%;
 }
 img {
@@ -25,4 +25,5 @@ img {
 .categoria{
     padding-left: 20px;
     padding-right: 20px;
+    background-color: brown;
 }
