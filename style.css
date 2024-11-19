@@ -14,7 +14,6 @@ body{
 .chamada-texto{
     margin-right: 5%;
     font-size: 200%;
-    display: flex;
 }
 img {
     height: 200px;
