@@ -13,3 +13,11 @@ section{
 .texto{
     margin-right: 5%;
 }
+img {
+    height: 200px;
+}
+
+.categoria-videos{
+    display:flex;
+    gap: 10px;
+}
